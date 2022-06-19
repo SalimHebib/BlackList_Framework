@@ -5,9 +5,127 @@
     <parameter name="url" value="https://www.globalsqa.com/demo-site/"/>
     <parameter name="browser" value="chrome"/>
     <parameter name="os" value="windows"/>
-    <test name="">
+
+    <test name="homePageTest menu globalsqa">
         <classes>
-            <class name=""/>
+            <class name="globalsqa.HomePageTest"/>
+        </classes>
+    </test>
+
+    <test name="bookSearchTest globalsqa">
+        <classes>
+            <class name="globalsqa.BookSearchTest"/>
+        </classes>
+    </test>
+
+    <test name="contactUsTest globalsqa">
+        <classes>
+            <class name="globalsqa.ContactUsTest"/>
+        </classes>
+    </test>
+
+    <test name="AlterBoxTest globalsqa">
+        <classes>
+            <class name="globalsqa.AlterBoxTest"/>
+        </classes>
+    </test>
+
+    <test name="DropDownTest globalsqa">
+        <classes>
+            <class name="globalsqa.DropDownTest"/>
+        </classes>
+    </test>
+
+    <test name="AutoCompleteTest globalsqa">
+        <classes>
+            <class name="globalsqa.AutoCompleteTest"/>
+        </classes>
+    </test>
+
+
+    <test name="DatePickerTest globalsqa">
+        <classes>
+            <class name="globalsqa.DatePickerTest"/>
+        </classes>
+    </test>
+
+
+    <test name="FramesTest globalsqa">
+        <classes>
+            <class name="globalsqa.FramesTest"/>
+        </classes>
+    </test>
+
+    <test name="ToolbarTest globalsqa">
+        <classes>
+            <class name="globalsqa.ToolbarTest"/>
+        </classes>
+    </test>
+
+    <test name="SampleTest globalsqa">
+        <classes>
+            <class name="globalsqa.SamplePageTesting"/>
+        </classes>
+    </test>
+
+    <test name="AngularjsssiteTest globalsqa">
+        <classes>
+            <class name="globalsqa.AngularJSSiteTesting"/>
+        </classes>
+    </test>
+
+    <test name="selectelementTest globalsqa">
+        <classes>
+            <class name="globalsqa.SelectElementsTesting"/>
+        </classes>
+    </test>
+
+    <test name="progressbarTest globalsqa">
+        <classes>
+            <class name="globalsqa.ProgressBarTesting"/>
+        </classes>
+    </test>
+
+    <test name="draggableboxTest globalsqa">
+        <classes>
+            <class name="globalsqa.DraggableBoxTesting"/>
+        </classes>
+    </test>
+
+    <test name="dialogboxTest globalsqa">
+        <classes>
+            <class name="globalsqa.DialogBoxTesting"/>
+        </classes>
+    </test>
+
+    <test name="tooltipsTest globalsqa">
+        <classes>
+            <class name="globalsqa.ToolTipTesting"/>
+        </classes>
+    </test>
+
+    <test name="sliderTest globalsqa">
+        <classes>
+            <class name="globalsqa.SliderTest"/>
+        </classes>
+    </test>
+
+    <test name="accordionTest globalsqa">
+        <classes>
+            <class name="globalsqa.AccordionTest"/>
+        </classes>
+    </test>
+
+    <test name="cheatsheetTest globalsqa">
+        <classes>
+            <class name="globalsqa.CheatSheetsTest"/>
+        </classes>
+    </test>
+
+
+    <test name="SortingTest globalsqa">
+        <classes>
+            <class name="globalsqa.SortingTest"/>
         </classes>
     </test>
 
