@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="walgreens smoke walgreens">
+    <parameter name="url" value="https://www.walgreens.com/"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="os" value="linux"/>
+    <test name="">
+        <classes>
+            <class name=""/>
+        </classes>
+    </test>
+
+
+</suite>
+

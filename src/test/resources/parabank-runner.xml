@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="parabank smoke parabank">
+    <parameter name="url" value="https://parabank.parasoft.com/parabank/index.htm"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="os" value="windows"/>
+    <test name="">
+        <classes>
+            <class name=""/>
+        </classes>
+    </test>
+
+</suite>
+
